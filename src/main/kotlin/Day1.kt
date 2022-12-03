@@ -1,4 +1,4 @@
-private val input = input("../day1.txt")
+private val input = input("day1.txt")
 
 fun main() {
     val elfMap = calc().also { println(it) }

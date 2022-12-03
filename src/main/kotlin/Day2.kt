@@ -1,4 +1,4 @@
-private val input = input("../day2.txt")
+private val input = input("day2.txt")
 
 fun main() {
     calcByStrategy { _, player ->
